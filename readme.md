@@ -1,0 +1,1 @@
+This category is from [Cocoa with Love](http://cocoawithlove.com/2009/06/base64-encoding-options-on-mac-and.html).
